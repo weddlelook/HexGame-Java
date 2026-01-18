@@ -24,7 +24,7 @@ This project showcases strong proficiency in **Object-Oriented Programming (OOP)
     * **Strategy Pattern:** Used within the `Player` hierarchy to interchange behavior between `HumanPlayer` and `ArtificialPlayer`.
 * **Algorithms:** Graph traversal (Pathfinding) for win-condition checking and AI logic.
 
-## 📂 Project Structure
+##  Project Structure
 
 The project follows a modular package structure:
 
@@ -37,6 +37,7 @@ src/hex
 └── ui/                     # Console interface and Input handling
     ├── commands/           # Individual command classes  
     └── ...
+```
 
 ##  How to Run
 
