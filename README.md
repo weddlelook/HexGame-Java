@@ -1,6 +1,6 @@
 # Hex Game - Java CLI Implementation
 
-An object-oriented implementation of the classic strategy board game **Hex**, played via a Command Line Interface (CLI). This project was developed to demonstrate advanced Java concepts, design patterns, and algorithm implementation, including custom Artificial Intelligence agents.
+An object-oriented implementation of the classic strategy board game **Hex**, played via a Command Line Interface (CLI). This project was developed to Java concepts, design patterns, and algorithm implementation, including custom Artificial Intelligence agents.
 
 ##  Features
 
@@ -38,7 +38,7 @@ src/hex
     ├── commands/           # Individual command classes  
     └── ...
 
-    ##  How to Run
+##  How to Run
 
 ### Prerequisites
 * Java Development Kit (JDK) installed (Version 11 or higher recommended).
